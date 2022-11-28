@@ -1,2 +1,3 @@
 # Pomodoro Aplication
 
+Este projeto prentendo desenvvolve-lo em breve...
