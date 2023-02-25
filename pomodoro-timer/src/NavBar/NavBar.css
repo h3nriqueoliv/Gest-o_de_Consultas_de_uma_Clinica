@@ -1,3 +1,11 @@
-*{
-    text-align: center;
-}
+
+.navbar{
+    background-color: gray;
+    width: auto;
+    height: 15%;
+  }
+
+  .Logo{
+    width: 5%;
+    margin-left: auto;
+  }

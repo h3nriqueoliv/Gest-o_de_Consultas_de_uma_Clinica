@@ -1,3 +1,5 @@
+import './Home.css'
+
 const Hompg = () => {
     return ( 
         <div className="content-home">
