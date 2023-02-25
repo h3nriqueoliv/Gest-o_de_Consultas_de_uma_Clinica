@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="drawing.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.77682379"
+     inkscape:cx="396.48631"
+     inkscape:cy="664.2433"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="1072"
+     inkscape:window-y="532"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath337">
+      <path
+         style="fill:#000000;stroke-width:0.264583"
+         d="m 209.12615,138.9633 -7.15253,-12.60206 -2.04358,4.08715 -5.10894,2.04358 -9.1961,2.38417 -5.79014,-0.34059 -9.1961,-2.38418 -5.10895,-1.70298 -6.13073,-3.74656 -3.74656,-4.42775 -1.36238,-5.10894 1.36238,-41.552756 112.7374,-7.152521 c 0,0 14.64564,18.732797 16.6892,21.457566 2.04359,2.724769 16.00803,22.479361 16.68923,33.378441 0.6812,10.89908 4.42775,35.08142 1.36239,45.29931 -3.06538,10.21789 -26.56652,34.05963 -26.56652,34.05963 l -40.53097,21.11698 -54.836,-7.49312 -23.16056,-4.42776 -9.53669,-3.40596 -12.26147,-18.3922 17.37041,-2.38418 24.52294,-2.04357 18.3922,-4.08716 10.89908,-2.72477 9.1961,-35.08142 z"
+         id="path339" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.0784px;font-family:'Glossy Sheen';-inkscape-font-specification:'Glossy Sheen';fill:#000000;stroke-width:0.161867"
+       x="2.1096368"
+       y="131.47925"
+       id="text343"><tspan
+         sodipodi:role="line"
+         id="tspan341"
+         style="stroke-width:0.161867"
+         x="2.1096368"
+         y="131.47925">Pomodoro Timer</tspan></text>
+  </g>
+</svg>
