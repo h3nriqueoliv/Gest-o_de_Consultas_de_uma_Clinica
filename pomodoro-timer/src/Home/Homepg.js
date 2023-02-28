@@ -1,5 +1,5 @@
 import "./Home.css";
-import './Background.css'
+import '../Background/Background.css'
 
 const Hompg = () => {
   return (
